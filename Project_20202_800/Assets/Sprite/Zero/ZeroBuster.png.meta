@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: d8b7b30cf2329ab4da3d9facade1abed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7429513165848922306
+    second: ZeroBuster_0
+  - first:
+      213: -8175801285203097902
+    second: ZeroBuster_1
+  - first:
+      213: 2976651999023040964
+    second: ZeroBuster_2
+  - first:
+      213: 659241694590187591
+    second: ZeroBuster_3
+  - first:
+      213: -5653584024319414004
+    second: ZeroBuster_4
+  - first:
+      213: -8714544486725592647
+    second: ZeroBuster_5
+  - first:
+      213: 3795828024593487785
+    second: ZeroBuster_6
+  - first:
+      213: 3732404736128035127
+    second: ZeroBuster_7
+  - first:
+      213: 6723171204112824932
+    second: ZeroBuster_8
+  - first:
+      213: 8281380305160409545
+    second: ZeroBuster_9
+  - first:
+      213: 1430728750885212575
+    second: ZeroBuster_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZeroBuster_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 60
+        height: 49
+      alignment: 9
+      pivot: {x: 0.66625845, y: 0.041406535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c843807cdeea1760800000000000000
+      internalID: 7429513165848922306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroBuster_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 62
+        height: 49
+      alignment: 9
+      pivot: {x: 0.69692093, y: 0.041406535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d689416c08b98e80800000000000000
+      internalID: -8175801285203097902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroBuster_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 8
+        width: 62
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6757328, y: 0.041406535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c989bdd8313f4920800000000000000
+      internalID: 2976651999023040964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroBuster_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 8
+        width: 60
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6790718, y: 0.037956003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748bc2314d8162900800000000000000
+      internalID: 659241694590187591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroBuster_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 8
+        width: 61
+        height: 49
+      alignment: 9
+      pivot: {x: 0.68016326, y: 0.037956003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c013e9aa84f6a81b0800000000000000
+      internalID: -5653584024319414004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroBuster_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 8
+        width: 45
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5713874, y: 0.037956003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9d16106f7bf0780800000000000000
+      internalID: -8714544486725592647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroBuster_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 8
+        width: 45
+        height: 49
+      alignment: 9
+      pivot: {x: 0.56387264, y: 0.037956003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a71e5a2a7d7da430800000000000000
+      internalID: 3795828024593487785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroBuster_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 8
+        width: 41
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5693724, y: 0.042563364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a5e6155a2cc330800000000000000
+      internalID: 3732404736128035127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroBuster_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 8
+        width: 34
+        height: 51
+      alignment: 9
+      pivot: {x: 0.46021765, y: 0.039782748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ab749d6908d4d50800000000000000
+      internalID: 6723171204112824932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroBuster_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 8
+        width: 40
+        height: 49
+      alignment: 9
+      pivot: {x: 0.49999848, y: 0.037956003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1900bc28f5de270800000000000000
+      internalID: 8281380305160409545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroBuster_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 8
+        width: 45
+        height: 49
+      alignment: 9
+      pivot: {x: 0.54508734, y: 0.041406535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f919376f738fad310800000000000000
+      internalID: 1430728750885212575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
